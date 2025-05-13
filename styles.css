@@ -79,8 +79,11 @@
   display: flex;
   align-items: center;
   gap: 4px;
-  color: white;
   /* width: 100%; */
+}
+
+.ac-store-contacts span {
+  color: white;
 }
 
 .ac-details-container {
